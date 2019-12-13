@@ -1,2 +1,2 @@
 # RNN
-## this project is divided into :
+ this project is divided into :
