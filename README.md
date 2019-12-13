@@ -6,4 +6,8 @@
 ## 4.NLP example
 in order to use these examples you need the following requirements:  
  pip install tensorflow  
+ pip install keras  
+ pip install numpy  
+ pip install pandas  
+ pip install sklearn  
 for further explanation about this project please check this presentation: https://bit.ly/2rJnvW2
