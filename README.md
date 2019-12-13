@@ -1,6 +1,6 @@
 # RNN
  this project is divided into :
-## 1.simple rnn example
+## 1.Simple RNN example
 ## 2.LSTM example
 ## 3.GRU example
 ## 4.NLP example
