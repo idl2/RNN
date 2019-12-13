@@ -5,4 +5,5 @@
 ## 3.GRU example
 ## 4.NLP example
 in order to use these examples you need the following requirements:  
- pip install tensorflow
+ pip install tensorflow  
+for further explanation about this project please check this presentation: https://bit.ly/2rJnvW2
