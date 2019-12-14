@@ -1,1 +1,11 @@
 dataset :https://www.kaggle.com/uciml/news-aggregator-dataset
+
+![79688974_628525131019385_25800624461316096_n](https://user-images.githubusercontent.com/58829811/70844293-4b1a2900-1e3f-11ea-87e3-3fee84ee7e68.png)
+
+
+![79447771_458182434895740_1416401165347717120_n](https://user-images.githubusercontent.com/58829811/70844298-59684500-1e3f-11ea-8abe-cd82b8d19861.png)
+
+![79649157_438681166815680_1579457507091283968_n](https://user-images.githubusercontent.com/58829811/70844300-5c633580-1e3f-11ea-8c45-c884350ff0d9.png)
+
+![79835502_786473745206794_6418274457126699008_n](https://user-images.githubusercontent.com/58829811/70844304-62f1ad00-1e3f-11ea-896f-ee4c61bda088.png)
+
